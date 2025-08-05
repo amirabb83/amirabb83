@@ -1,15 +1,19 @@
-# 👋 سلام! من [اسم شما] هستم
+<!-- README.md -->
 
-- 🎓 دانشجوی ...
-- 💻 برنامه‌نویس علاقه‌مند به ...
-- 📫 ایمیل: your@email.com
-- 🔗 [LinkedIn](https://linkedin.com/in/yourname) | [Twitter](https://twitter.com/yourname)
+<h1 align="center">سلام دنیا! 👋 من یک فرانت‌اند دولوپر فان و عاشق کدنویسی‌ام 💻🚀</h1>
 
-## 🛠 مهارت‌ها
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Shadows+Into+Light&size=30&color=F7A32B&center=true&vCenter=true&width=1000&lines=React+Lover+💙;Next.js+%7C+TypeScript+%7C+Tailwind+Wizard🎩;Let's+build+beautiful+web+apps+🌐" />
+</p>
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+---
 
-## 📊 آمار گیت‌هاب
+## 🙋‍♂️ درباره من
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=radical)
+```ts
+const developer = {
+  name: "Amir",
+  role: "Frontend Developer",
+  stack: ["React", "Next.js", "TypeScript", "Tailwind CSS", "Bootstrap", "HTML", "CSS"],
+  funFact: "به جای قهوه، با CSS انرژی می‌گیرم 😎",
+};
