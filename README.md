@@ -5,19 +5,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Shadows+Into+Light&size=30&color=F7A32B&center=true&vCenter=true&width=1000&lines=React+Lover+💙;Next.js+%7C+TypeScript+%7C+Tailwind+Wizard🎩;Let's+build+beautiful+web+apps+🌐" />
 </p>
 
----
-
-## 🙋‍♂️ درباره من
-
-```ts
-const developer = {
-  name: "Amir Hossein",
-  role: "Frontend Developer",
-  stack: ["React", "Next.js", "TypeScript", "Tailwind CSS", "Bootstrap", "HTML", "CSS"],
-};
-
-## 🛠️ مهارت‌های من
-
 <p align="center">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
@@ -30,4 +17,13 @@ const developer = {
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </p>
+---
 
+## 🙋‍♂️ درباره من
+
+```ts
+const developer = {
+  name: "Amir Hossein",
+  role: "Frontend Developer",
+  stack: ["React", "Next.js", "TypeScript", "Tailwind CSS", "Bootstrap", "HTML", "CSS"],
+};
